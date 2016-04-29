@@ -21,6 +21,8 @@
 
 #import <UIKit/UIKit.h>
 
+#import "NBUAvailability.h"
+
 
 /** @name Macros */
 
